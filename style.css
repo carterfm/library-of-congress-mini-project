@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  width: 90vw;
+  height: 90vh;
+  background-color: salmon;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  text-align: center;
+}
+
+
